@@ -10,9 +10,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/uidaholib/pages-collection-theme"
   spec.license       = "MIT"
 
-  spec.files                   = `git ls-files -z`.split("\x0").select do |f|
-    f.match(%r{^(assets|_(data|includes|layouts|sass)/|(LICENSE|README|CHANGELOG)((\.(txt|md|markdown)|$)))}i)
-  end
+  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|_data|LICENSE|README)!i) }
 
   spec.add_runtime_dependency "jekyll", "~> 3.8"
 
