@@ -1,5 +1,7 @@
 # pages-collection-theme
 
+**Don't use, not working correctly, use https://github.com/uidaholib/pages-collection-template **
+
 > Prototype gh-pages digital collection theme.
 
 This project is designed to be used as a [`remote_theme` for a GitHub pages site](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/).
