@@ -1,11 +1,15 @@
 ---
-layout: page
 title: About
+layout: page
+permalink: /about/
 ---
 
 # About {{ site.title }}
 
-Digital collection site built via metadata and Jekyll.
+This is a demo digital collection produced by researchers in the [Palouse Digital Scholarship Symposium](https://palousedh.github.io/symposium/) 2018.
+Participants scanned and described physical items.
+The digital objects and metadata were loaded into `pages-collection` project to create this site. 
+The metadata drives the Jekyll based project, built and hosted on GitHub Pages.
 
 ### Technical
 

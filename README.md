@@ -1,6 +1,6 @@
 # pages-collection-theme
 
-**Don't use, not working correctly, use https://github.com/uidaholib/pages-collection-template **
+**Don't use, not working correctly as remote theme**
 
 > Prototype gh-pages digital collection theme.
 
